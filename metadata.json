@@ -1,0 +1,6 @@
+{
+  "name": "SketchUp Extension Studio",
+  "description": "Design, test in 3D, and generate install-ready Ruby .rbz extensions for Trimble SketchUp with interactive HtmlDialogs and code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
